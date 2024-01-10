@@ -1,4 +1,4 @@
-This rep contains only one zip file that had a Android studio project in it
+This rep contains only one zip file that has a Android studio project in it
 This project utilizes sensor events on the android operating system
 
 - the game requires users to select a difficulty and touch the screen to begin
